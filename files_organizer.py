@@ -21,5 +21,5 @@ def organize_downloads(download_folder):
 
 
 if __name__ == "__main__":
-    downloads_path = 'C:\\Users\\imran.bhatti\\Desktop'  
+    downloads_path = 'C:\\Users\\your-name\\Desktop'  
     organize_downloads(downloads_path)
